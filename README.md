@@ -18,7 +18,7 @@ I'm currently diving deep into the world of AI and ML, exploring various algorit
 
 Check out some of the projects I've been working on:
 
-1. [Project Name 1](link-to-project-1): KIV
+1. [Food Image Classification using PyTorch](https://github.com/winsonchow/food101-image-classification)
 2. [Project Name 2](link-to-project-2): KIV
 3. [Project Name 3](link-to-project-3): KIV
 
