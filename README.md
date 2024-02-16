@@ -12,17 +12,15 @@ Hello there! I'm Winson, a final year computer science student with a passion fo
 
 ## What I'm Up To
 
-I'm currently diving deep into the world of AI and ML, exploring various algorithms, techniques, and frameworks. As part of my journey, I'm working on a range of machine learning projects that I'm excited to share with you. From predictive analytics to recommendation systems, I'm constantly challenging myself to learn and apply new concepts.
+I'm currently diving deep into the world of AI and ML, exploring various algorithms, techniques, and frameworks. As part of my journey, I'm working on a range of machine learning projects that I'm excited to share with you. From predictive analytics to fake news detection systems, I'm constantly challenging myself to learn and apply new concepts.
 
 ## My Projects
 
 Check out some of the projects I've been working on:
 
-1. [Food Image Classification using PyTorch](https://github.com/winsonchow/food101-image-classification)
-2. [Enhancing Question Answering with Transformer Models](https://github.com/winsonchow/SQuAD-question-answering): Work In Progress
-3. [Project Name 3](link-to-project-3): KIV
-
-Each project showcases my skills, creativity, and commitment to the field of AI and ML.
+1. [Project Name 1]
+2. [Project Name 2]
+3. [Fake News Detection](link-to-project-3): KIV
 
 ## Connect with Me
 
