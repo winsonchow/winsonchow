@@ -16,11 +16,16 @@ I'm currently diving deep into the world of AI and ML, exploring various algorit
 
 ## My Projects
 
-Check out some of the projects I've been working on:
+Check out some of the personal projects I've been working on:
 
-1. [Fake News Detection](link-to-project-3)
-2. [Project Name 2](link-to-project-2)
-3. [Project Name 3](link-to-project-3)
+1. [Fake News Detection](https://github.com/winsonchow/fake-news-detection))
+2. [Food-101 Image Classification](https://github.com/winsonchow/food101-image-classification)): KIV
+3. [ML Time Series Project](link-to-project-3): KIV
+
+And here are some school projects I've worked on before:
+1. [Topic Modelling](https://github.com/winsonchow/school-coursework)
+2. [CIFAR-10 Image Classification](https://github.com/winsonchow/school-coursework)
+3. [Regression Modelling](https://github.com/winsonchow/school-coursework)
 
 ## Technical Skills
 
