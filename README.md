@@ -18,8 +18,8 @@ I'm currently diving deep into the world of AI and ML, exploring various algorit
 
 Check out some of the personal projects I've been working on:
 
-1. [Fake News Detection](https://github.com/winsonchow/fake-news-detection))
-2. [Food-101 Image Classification](https://github.com/winsonchow/food101-image-classification)): KIV
+1. [Fake News Detection](https://github.com/winsonchow/fake-news-detection)
+2. [Food-101 Image Classification](https://github.com/winsonchow/food101-image-classification): KIV
 3. [ML Time Series Project](link-to-project-3): KIV
 
 And here are some school projects I've worked on before:
