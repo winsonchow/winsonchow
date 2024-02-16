@@ -18,9 +18,31 @@ I'm currently diving deep into the world of AI and ML, exploring various algorit
 
 Check out some of the projects I've been working on:
 
-1. [Project Name 1]
-2. [Project Name 2]
-3. [Fake News Detection](link-to-project-3): KIV
+1. [Project Name 1](link-to-project-1)
+2. [Project Name 2](link-to-project-2)
+3. [Fake News Detection](link-to-project-3)
+
+## Technical Skills
+
+Below is a list of my technical skills and tools I'm proficient in:
+
+### Programming Languages
+- **Python**: Advanced (experience with NumPy, pandas, scikit-learn, TensorFlow, PyTorch)
+- **JavaScript**: Intermediate
+
+### Machine Learning / Deep Learning
+- **Frameworks**: TensorFlow, PyTorch, Keras
+- **Techniques**: Supervised Learning, Unsupervised Learning, Deep Learning, Natural Language Processing, Computer Vision
+
+### Data Analysis and Visualization
+- **Tools**: pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+- **Data Processing**: Data Cleaning, Data Manipulation, Data Visualization
+
+### Cloud Platforms
+- **AWS**: Basic understanding of EC2, S3, Lambda
+- **Google Cloud Platform**: Experience with AI Platform, Compute Engine
+
+This list represents the core technologies I've worked with and am continually expanding upon. I'm always eager to learn new tools and technologies to enhance my skill set.
 
 ## Connect with Me
 
