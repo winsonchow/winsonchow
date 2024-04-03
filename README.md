@@ -26,8 +26,7 @@ And here are some school projects I've worked on before:
 3. [Regression Modelling](https://github.com/winsonchow/school-coursework)
 
 ## Technical Skills
-
-Below is a list of my technical skills and tools I'm proficient in:
+This list represents the core technologies I've worked with and am continually expanding upon. I'm always eager to learn new tools and technologies to enhance my skill set.
 
 ### Machine Learning / Deep Learning
 - **Frameworks**: TensorFlow, PyTorch, Keras
@@ -38,9 +37,7 @@ Below is a list of my technical skills and tools I'm proficient in:
 - **Data Processing**: Data Cleaning, Data Manipulation, Data Visualization
 
 ### Cloud Platforms
-- **GCP**
-
-This list represents the core technologies I've worked with and am continually expanding upon. I'm always eager to learn new tools and technologies to enhance my skill set.
+- GCP
 
 ## Connect with Me
 
