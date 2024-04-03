@@ -38,6 +38,7 @@ Below is a list of my technical skills and tools I'm proficient in:
 - **Data Processing**: Data Cleaning, Data Manipulation, Data Visualization
 
 ### Cloud Platforms
+- **GCP**
 
 This list represents the core technologies I've worked with and am continually expanding upon. I'm always eager to learn new tools and technologies to enhance my skill set.
 
