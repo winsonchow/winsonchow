@@ -4,10 +4,9 @@ Hello there! I'm Winson, a final year computer science student with a passion fo
 
 ## About Me
 
-- 🎓 Final Year Computer Science Student
+- 🎓 Computer Science Graduate
 - 🤖 AI and ML Enthusiast
 - 🌟 Passionate about solving real-world problems with technology
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy hitting the gym and dragon boatting in my free time
 
 ## What I'm Up To
@@ -16,14 +15,11 @@ I'm currently diving deep into the world of AI and ML, exploring various algorit
 
 ## My Projects
 
-Check out some of the personal projects I've been working on:
-
-1. [Fake News Detection](https://github.com/winsonchow/fake-news-detection)
-
-And here are some school projects I've worked on before:
-1. [Topic Modelling](https://github.com/winsonchow/school-coursework)
-2. [CIFAR-10 Image Classification](https://github.com/winsonchow/school-coursework)
-3. [Regression Modelling](https://github.com/winsonchow/school-coursework)
+Check out some of the projects I've worked on:
+1. [Fake News Detection](https://github.com/winsonchow/politifact-fake-news-detection)
+2. [Topic Classification](https://github.com/winsonchow/20newsgroups-topic-classification)
+3. [CIFAR-10 Image Classification](https://github.com/winsonchow/cifar10-image-classification)
+4. [Ames Housing Price Prediction](https://github.com/winsonchow/ames-housing-price-prediction)
 
 ## Technical Skills
 This list represents the core technologies I've worked with and am continually expanding upon. I'm always eager to learn new tools and technologies to enhance my skill set.
