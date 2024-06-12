@@ -16,8 +16,8 @@ I'm currently diving deep into the world of AI and ML, exploring various algorit
 ## My Projects
 
 Check out some of the projects I've worked on:
-1. [Fake News Detection](https://github.com/winsonchow/politifact-fake-news-detection)
-2. [Topic Classification](https://github.com/winsonchow/20newsgroups-topic-classification)
+1. [PolitiFact Fake News Detection](https://github.com/winsonchow/politifact-fake-news-detection)
+2. [20 Newsgroups Topic Classification](https://github.com/winsonchow/20newsgroups-topic-classification)
 3. [CIFAR-10 Image Classification](https://github.com/winsonchow/cifar10-image-classification)
 4. [Ames Housing Price Prediction](https://github.com/winsonchow/ames-housing-price-prediction)
 
