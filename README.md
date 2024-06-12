@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello there! I'm Winson, a final year computer science student with a passion for Artificial Intelligence and Machine Learning. I'm thrilled to have you here on my GitHub profile.
+Hello there! I'm Winson, computer science graduate with a passion for Artificial Intelligence and Machine Learning. I'm thrilled to have you here on my GitHub profile.
 
 ## About Me
 
@@ -24,7 +24,7 @@ Check out some of the projects I've worked on:
 ## Technical Skills
 This list represents the core technologies I've worked with and am continually expanding upon. I'm always eager to learn new tools and technologies to enhance my skill set.
 
-### Machine Learning / Deep Learning
+### Artificial Intellgence / Machine Learning
 - **Frameworks**: TensorFlow, PyTorch, Keras
 - **Techniques**: Supervised Learning, Unsupervised Learning, Deep Learning, Natural Language Processing, Computer Vision
 
