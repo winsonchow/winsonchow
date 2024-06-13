@@ -25,12 +25,12 @@ Check out some of the projects I've worked on:
 This list represents the core technologies I've worked with and am continually expanding upon. I'm always eager to learn new tools and technologies to enhance my skill set.
 
 ### Artificial Intellgence / Machine Learning
-- **Frameworks**: TensorFlow, PyTorch, Keras
-- **Techniques**: Supervised Learning, Unsupervised Learning, Deep Learning, Natural Language Processing, Computer Vision
+- **Frameworks**: PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face Transformers
+- **Techniques**: Supervised Learning, Unsupervised Learning, Deep Learning, Natural Language Processing, Computer Vision, Feature Engineering
 
 ### Data Analysis and Visualization
 - **Tools**: pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
-- **Data Processing**: Data Cleaning, Data Manipulation, Data Visualization
+- **Data Processing**: Data Cleaning, Data Manipulation, Data Visualization, Feature Scaling, Data Transformation
 
 ### Cloud Platforms
 - GCP
